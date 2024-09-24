@@ -1,7 +1,7 @@
 ### City Government Agency Logos
 #### Welcome to the City Government Agency Logos repository! This site is dedicated to showcasing the logos of various city government agencies. Here, you’ll find a curated collection of official logos, designed to promote transparency and foster a sense of community engagement.
 
-![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/01_SAPO.png)
+![alt text](https://raw.githubusercontent.com/CPSSTeam/cpssteam.github.io/refs/heads/main/logo_images/01_SAPO.png)
 ![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/02_OATH.png)
 ![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/03_OCC.png)
 ![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/04_DFTA.png)
