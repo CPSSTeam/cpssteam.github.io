@@ -30,4 +30,3 @@
 ![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/27_OSE.png)
 ![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/28_HRADSS.png)
 ![alt text](https://github.com/CPSSTeam/cpssteam.github.io/blob/main/logo_images/29_DOE.png)
-![image](https://github.com/user-attachments/assets/d16cdb5d-6d46-497b-b16b-800fbf8a82db)
